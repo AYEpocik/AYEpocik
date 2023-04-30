@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AYEpocik
-- 🌱 I’m currently learning Python and would like to become Pro
+- 🌱 I’m currently learning Python and wish I could be better at it
 - 💞️ I’m looking to collaborate on че?
 
 <!---
